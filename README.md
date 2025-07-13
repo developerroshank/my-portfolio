@@ -24,7 +24,7 @@ This is a personal portfolio website showcasing projects, a blog, and other tech
 1. **Clone the Repository**  
    ```sh
    git clone https://github.com/developerroshank/my-portfolio
-   cd portfolio
+   cd my-portfolio
    ```
 2. **Install Dependencies**  
    ```sh
